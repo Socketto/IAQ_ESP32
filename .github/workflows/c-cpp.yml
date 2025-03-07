@@ -35,6 +35,8 @@ jobs:
           arduino-cli lib install "LiquidCrystal I2C"  # Installa librerie se necessarie
           arduino-cli lib install "DHT sensor library"  # Installa librerie se necessarie
           arduino-cli lib install "sunset"  # Installa librerie se necessarie
+          arduino-cli lib install "ClosedCube HDC1080"  # Installa librerie se necessarie
+          
 
       - name: Compile Sketch
         run: |
