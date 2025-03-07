@@ -1,0 +1,98 @@
+# Arduino
+*.pde
+*.hex
+*.elf
+*.eep
+*.bin
+*.map
+*.d
+*.o
+*.a
+*.so
+*.lib
+*.dylib
+*.i
+*.s
+*.lst
+*.zip
+build/
+output/
+generated/
+.idea/
+.vscode/
+.settings/
+
+__pycache__/
+
+# KiCad
+# Ignora la cartella di output di KiCad
+kicad_project_name/
+
+# Ignora la cartella di cache di KiCad
+.kicad_idc/
+
+# Ignora i file temporanei di KiCad
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*.kicad_pcb-~
+*.kicad_sch-~
+
+# File generati da KiCad
+*.kicad_pcb
+*.kicad_sch
+*.pro
+*.kicad_mod
+*.kicad_wks
+*.kicad_pcb
+*.kicad_sym
+*.kicad_lib
+*.kicad_pcb-aux
+*.dox
+
+# Altri file temporanei di KiCad
+*.backup
+*.kicad_wks~
+
+# Visual Studio
+# Ignora le cartelle di configurazione di Visual Studio
+.vs/
+.vscode/
+.idea/
+
+# File di configurazione di Visual Studio
+.vs2019/
+.vs2017/
+
+# File di progetto temporanei e di build
+bin/
+obj/
+Debug/
+Release/
+x64/
+x86/
+TestResults/
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+*.dbmdl
+*.bak
+
+# MPLAB X
+# Cartelle temporanee di MPLAB X
+.mplab_*/          # Variabili specifiche della versione
+/mplab_*/           # Cartelle generali di configurazione
+**/mcc_generated_files/
+
+# File di configurazione MPLAB X
+*.mcc
+*.mcp
+*.mch
+*.lkr
+*.elf
+*.hex
+*.d
+
+# Altri file temporanei di MPLAB X
+*.bak
+*.swp

@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "CO2_Sensor_CH340g")(type "KiCad")(uri "$(KIPRJMOD)/CO2_Sensor_CH340g.pretty")(options "")(descr ""))
+)
