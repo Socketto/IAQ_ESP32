@@ -37,17 +37,6 @@ kicad_project_name/
 *.kicad_pcb-~
 *.kicad_sch-~
 
-# File generati da KiCad
-*.kicad_pcb
-*.kicad_sch
-*.pro
-*.kicad_mod
-*.kicad_wks
-*.kicad_pcb
-*.kicad_sym
-*.kicad_lib
-*.kicad_pcb-aux
-*.dox
 
 # Altri file temporanei di KiCad
 *.backup
